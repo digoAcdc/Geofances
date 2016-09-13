@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-  <color name="ColorPrimary">#4caf50</color>
+  <!--<color name="ColorPrimary">#4caf50</color>
   <color name="ColorPrimaryDark">#1b5e20</color>
   <color name="ColorAccent">#CCCCCC</color>
 
-  <color name="Background">#408D42</color>
+  <color name="Background">#408D42</color>-->
+
+  <color name="ColorPrimary">#A52A2A</color>
+  <color name="ColorPrimaryDark">#B22222</color>
+  <color name="ColorAccent">#FF5722</color>
+  <color name="Background">@color/TextColor.White</color>
 
   <color name="Background.CardView">#DDDDDD</color>
 
